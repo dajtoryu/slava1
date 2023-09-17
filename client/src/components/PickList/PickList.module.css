@@ -1,0 +1,42 @@
+.pick{
+    padding-left: 0.5rem;
+    padding-top: 1rem;
+ }
+ 
+ .pick_title{
+     font-family: Inter;
+     font-size: 0.5rem;
+     text-align: left;
+     font-weight: 700;
+ 
+ }
+ .pick_selecting{
+     display: flex;
+     gap:1.5rem;
+     font-family: Inter;
+     font-size: 0.5rem;
+     padding-top: 1rem;
+     text-transform: capitalize;
+ }
+ 
+ .pick_winter{
+     display: flex;
+     gap:0.5rem;
+ }
+ 
+ .pick_text{
+    display: flex;
+    align-items: center;
+ }
+ .fat{
+   font-weight: 400;
+ }
+
+ .pick_circle{
+     display: flex;
+     align-items: center;
+ }
+ 
+ .pick_selecting>div:hover{
+     cursor: pointer;
+ }
